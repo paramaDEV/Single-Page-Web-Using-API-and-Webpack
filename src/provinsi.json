@@ -1,0 +1,41 @@
+{
+    "status" : true ,
+    "province" : [
+        "DKI Jakarta",
+        "Banten",
+        "Jawa Barat",
+        "Jawa Tengah",
+        "DI Yogyakarta",
+        "Jawa Timur",
+        "Bali",
+        "Aceh",
+        "Sumatera Utara",
+        "Sumatera Barat",
+        "Sumatera Selatan",
+        "Kep. Riau",
+        "Jambi",
+        "Bengkulu",
+        "Kep. Bangka Belitung",
+        "Lampung",
+        "Nusa Tenggara Barat",
+        "Nusa Tenggara Timur",
+        "Kalimantan Barat",
+        "Kalimantan Selatan",
+        "Kalimantan Timur",
+        "Kalimantan Tengah",
+        "Kalimantan Utara",
+        "Gorontalo",
+        "Sulawesi Barat",
+        "Sulawesi Selatan",
+        "Sulawesi Tengah",
+        "Sulawesi Tenggara",
+        "Sulawesi Utara",
+        "Maluku",
+        "Maluku Utara",
+        "Papua",
+        "Papua Barat"
+
+    ]
+
+
+}
